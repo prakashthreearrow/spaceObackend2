@@ -1,0 +1,13 @@
+{
+	"addEditUserValidationEmpty": "Please enter the name.",
+	"addEditUserValidationEmail": "Please enter valid email.",
+	"addEditUserValidationMax": "Max number should be 10 digits.",
+	"emailOrNumberAlreadyExist": "Email or number already exists.",
+	"UserAddedSuccessfully": "User has been added successfully.",
+	"success": "success",
+	"UserUpdatedSuccessfully": "User has been updated successfully.",
+	"noRecordFound": "No record found.",
+	"internalError": "Internal Server Error.",
+	"userDeleted": "User has been deleted successfully.",
+	"addEditValidationId": "Please select the ID."
+}
