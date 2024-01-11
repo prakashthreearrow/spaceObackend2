@@ -155,6 +155,7 @@ module.exports = {
                             }
                         });
 
+                        
                         if (existingEmails.length === 0) {
                             await User.update(
                                 { name: requestParams.name },
