@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source: /
-    destination: /home/ubuntu/backend/spaceObackend2
+    destination: /home/ubuntu/space/spaceObackend2
     overwrite: true
 file_exists_behavior: OVERWRITE
 
